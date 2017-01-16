@@ -5,7 +5,7 @@
 // Java RSA cracking library VERSION 1.0 Please visit the project's website at: https://github.com/cybernova/RSAbreaker
 // Copyright (C) 2017 Andrea Dari (andreadari91@gmail.com)                                   
 //                                                                                                       
-// This shell script is free software: you can redistribute it and/or modify                             
+// This library is free software: you can redistribute it and/or modify                             
 // it under the terms of the GNU General Public License as published by                                   
 // the Free Software Foundation, either version 2 of the License, or                                     
 // any later version.                                                                   
