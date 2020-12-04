@@ -7,7 +7,7 @@ This library was written for the 2014 ECSM (European Cyber Security Month) conte
 
 Website of the event: https://science.unitn.it/~sala/cybersecuritymonth2014/
 
-License and Donations
+License
 -------
 
 Coded by Andrea Dari and licensed under GNU GPL v2.0
